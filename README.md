@@ -1,1 +1,1 @@
-# SN-GNN
+# DA-SRN
